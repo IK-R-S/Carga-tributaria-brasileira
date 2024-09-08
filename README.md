@@ -26,7 +26,6 @@ pip install pandas matplotlib
 ## Estrutura do Repositório
 `ctb_1990-2022.xlsx:` Arquivo de dados em Excel contendo as receitas tributárias do Brasil, em R$ milhões e como porcentagem do PIB.
 `main.py:` Script Python que carrega, processa e plota a evolução da carga tributária em % do PIB.
-`README.md:` Este arquivo de documentação.
 
 ## Como Executar
 Clone este repositório ou baixe os arquivos.
