@@ -43,4 +43,3 @@ O código realiza as seguintes etapas:
 - Leitura do arquivo Excel: A planilha contendo os dados de carga tributária é carregada usando pandas.
 - Filtragem dos dados: O código filtra os dados para analisar o período entre 1994 (início do Plano Real) até 2022.
 - Plotagem do gráfico: Utilizando matplotlib, o gráfico da carga tributária como % do PIB é gerado, mostrando a evolução anual.
-Visualização
